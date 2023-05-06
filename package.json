@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bochka123/nodejs-mysql.git"
+  },
+  "author": "Oleksandr Tkach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bochka123/nodejs-mysql/issues"
+  },
+  "homepage": "https://github.com/bochka123/nodejs-mysql#readme",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "mysql2": "^3.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
